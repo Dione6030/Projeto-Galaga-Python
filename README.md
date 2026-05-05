@@ -38,3 +38,7 @@ python Galaga2.py
 ## 🤝 Contribuidores
 
 <a href="https://github.com/Dione6030"><img src="https://github.com/Dione6030.png" width="45" height="45"></a> &nbsp;
+
+## 📝 Informações Adicionais
+
+Este repositório não possui versionamento bem definido pois faz parte das minhas aulas de algoritmo e estrutura de dados, todo versionamento detalhando com todos os passos da criação estão no repositório referente a essas aulas: <a href="http://github.com/Dione6030/Aulas-de-Algoritmos-e-Estrutura-de-Dados/commits/main/">Clique aqui</a> para ver.
